@@ -62,4 +62,4 @@ VITE_WEATHER_API_KEY=your_api_key_here
 ---
 
 ## 📄 License
-This project is open-source and free to use.
+This project is open-source and free to use
